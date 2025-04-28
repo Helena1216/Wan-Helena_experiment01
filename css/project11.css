@@ -1,0 +1,54 @@
+body {
+    background-image: url("../assets/images/happy.gif");
+    background-repeat: repeat;
+    background-size: 200px 200px;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #f0f8ff;
+    
+    text-align: center;
+    font-family: "Comic Sans MS", "Arial", sans-serif;
+    color: #333;
+    padding: 50px;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    color: #ff69b4;
+    text-shadow: 2px 2px 5px #fff;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 1.2em;
+    margin: 10px 0;
+    background: rgba(255, 255, 255, 0.7); 
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+  
+  a {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 10px 20px;
+    background-color: #ffcc00;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  a:hover {
+    background-color: #ffa500;
+  }
+
+  .cat{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
